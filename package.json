@@ -1,0 +1,31 @@
+{
+  "name": "porfolio-vitepress",
+  "version": "1.0.0",
+  "description": "Porfolio",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lougea/Porfolio-vitepress.git"
+  },
+  "keywords": [
+    "cv",
+    "porfolio",
+    "love-coding"
+  ],
+  "author": "Louise Brunner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lougea/Porfolio-vitepress/issues"
+  },
+  "homepage": "https://github.com/lougea/Porfolio-vitepress#readme",
+  "dependencies": {
+    "vitepress": "*",
+    "vue": "^3.2.37"
+  }
+}
